@@ -1,0 +1,60 @@
+
+
+.title-main{
+  margin-top: 15px;
+}
+
+.title-main hr{
+  margin-left: 35px;
+width: 170px;
+color: #ffff;
+height: 5px;
+border-radius: 30px;
+
+
+
+}
+.title-main .title-p{
+  margin-left: 35px;
+  font-size:35px;
+  color: #FFD700;
+  font-weight: 600;
+}
+
+.datat{
+  
+    display: flex;
+  justify-content: space-evenly;
+  
+  }
+  .datat .itemm .item-image{
+    height: 200px;
+    width: 200px;
+    border-radius: 15px;
+  }
+ 
+
+  .item-text{
+    padding-left:13px ;
+    padding-top: 4px;
+  }
+  .item-text p{
+   line-height: 12px;
+  }
+ 
+  
+
+
+  .item-rating{
+    display: flex;
+  }
+
+  .item-rating p{
+padding-left: 7px;
+padding-top: 2px;
+color: #00FC87;
+font-weight: 600;
+
+
+  }
+ 

@@ -1,0 +1,19 @@
+.card-image{
+    height: 200px;
+    width: 200px;
+}
+.card-rating{
+    display: flex;
+
+}
+.card-text{
+    display: flex;
+    flex-direction: column;
+    line-height: 12px;
+
+}
+.card-text p{
+    text-align: justify;
+}
+
+   
